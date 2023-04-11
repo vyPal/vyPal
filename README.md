@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Guilded.ts](https://github.com/guildedts/guilded.ts)
 
-- 🤝 I’m looking for help with [Node Minecraft API](https://github.com/PrismarineJS/node-minecraft-protocol)
+- 🤝 I’m looking for help with [EduPage2](https://github.com/DislikesSchool/EduPage2)
 
 - 💬 Ask me about **js, discord, guilded, react, java, mc plugins/mods**
 
