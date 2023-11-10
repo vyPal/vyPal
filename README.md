@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vypal" alt="vypal" /></a> </p>
 
-- 🔭 I’m currently working on [DJSFrame](https://github.com/vyPal/djsframe)
+- 🔭 I’m currently working on [EduPage2](https://github.com/DislikesSchool/EduPage2)
 
-- 🌱 I’m currently learning **Frameworks, APIs, Python (they are forcing me to learn it at school, even though I know more than the teacher)**
+- 🌱 I’m currently learning **Random stuff**
 
 - 👯 I’m looking to collaborate on [Guilded.ts](https://github.com/guildedts/guilded.ts)
 
 - 🤝 I’m looking for help with [EduPage2](https://github.com/DislikesSchool/EduPage2)
 
-- 💬 Ask me about **js, discord, guilded, react, java, mc plugins/mods**
+- 💬 Ask me about **golang, js, discord, guilded, react, java, mc plugins/mods**
 
 - 📫 How to reach me **kubik.palacky@gmail.com**
 
