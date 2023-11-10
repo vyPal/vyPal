@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=vyPal&show_icons=true&theme=algolia&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="vypal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vypal&theme=dark" alt="vypal" /></p>
+
+[![vyPal's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vyPal&layout=compact)](https://wakatime.com/@vyPal)
