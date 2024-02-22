@@ -3,6 +3,7 @@
 <h3 align="center">EduPage2 downloads are available <a href="https://github.com/Dislikesschool/EduPage2">here</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vypal&label=Profile%20views&color=0e75b6&style=flat" alt="vypal" /> </p>
+<a href="https://wakatime.com/@f464de95-0614-429a-a5db-86630ea3fed3"><img src="https://wakatime.com/badge/user/f464de95-0614-429a-a5db-86630ea3fed3.svg" alt="Total time coded since Apr 3 2021" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vypal" alt="vypal" /></a> </p>
 
